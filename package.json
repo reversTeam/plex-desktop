@@ -1,0 +1,12 @@
+{
+	"name": "Plex desktop",
+	"version" : "v0.0.0",
+	"node-main" : "./main.js",
+	"main": "https://app.plex.tv/web/app",
+	"window": {
+		"toolbar": false,
+		"icon": "./icon.icns",
+		"width": 1200,
+		"height": 600
+	}
+}
